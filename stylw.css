@@ -1,0 +1,26 @@
+.card {
+    height: 80vh;
+    width: 90vw;
+    margin: 0 auto;
+    color: blue;
+  }
+  
+  .card__image {
+    height: 400px;
+  }
+  
+  body {
+    background-color: aqua;
+  }
+  
+  .btn {
+    background-color: red;
+  }
+  body {
+    background-color: aqua;
+  }
+  
+  .btn {
+    background-color: red;
+  }
+  /*# sourceMappingURL=main.css.map */
